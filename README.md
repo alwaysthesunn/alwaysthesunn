@@ -1,0 +1,4 @@
+- 👋 Wesh, je suis @alwaysthesunn
+- 👀 Je dev en HTML, en Python et en Lua !
+- 💞️ Mes projets sont : MyParisFrance RP, Pristis, et plus !
+- 📫 Tu peux me contacter sur Discord : AlwaysTheSun#0001 !
